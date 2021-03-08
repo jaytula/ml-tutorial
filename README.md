@@ -19,3 +19,26 @@ https://www.youtube.com/watch?v=7eh4d6sabA0
 - Press `Tab` after `.` to see attributes and methods on function
 - Press `Shift-Tab` on method to get info on its signature
 - Press `Ctrl-/` to comment line
+
+# Steps
+
+1. Import the Data
+2. Clean the Data
+3. Split the Data into Training / Test Sets
+4. Create a Model
+5. Train the Model
+6. Make Predictions
+7. Evaluate and Improve
+
+# Data
+
+- Three columns `age` `gender` and `genre`
+
+# Assumptions
+
+- Men between 20-25 like HipHop
+- Men between 26-30 like Jazz
+- Men after 30 like Classical
+- Women between 20-25 like Dance
+- Women between 26-30 like Acoustic
+- Women above 30 like Classical
